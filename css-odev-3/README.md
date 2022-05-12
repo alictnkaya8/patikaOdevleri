@@ -1,3 +1,3 @@
 ## Inline CSS ile düzenlendi.
-## Daha sonra düzenleme yapılacak.
+## Daha sonra gerekli düzenlemeler yapılacak.
 ### Footer kısmı düzenlenecek.
